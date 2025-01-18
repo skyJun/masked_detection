@@ -82,17 +82,6 @@ This project focuses on developing a mask detection model to classify whether a 
 - PyTorch
 - Additional libraries: torchvision, numpy, matplotlib
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/skyJun/masked_detection.git
-   cd masked_detection
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Training the Model
 1. Place the dataset in the `data/` folder.
 2. Run the training script:
